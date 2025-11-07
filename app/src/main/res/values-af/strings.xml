@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Beta Begroting</string>
+
+    <string name="login_title">Beta Begroting</string>
+    <string name="login_username_hint">Gebruikersnaam</string>
+    <string name="login_password_hint">Wagwoord</string>
+    <string name="login_button">Teken In</string>
+    <string name="login_register_prompt">Het jy nie \'n rekening nie? Registreer hier.</string>
+    <string name="login_failed">Intekening het misluk: Ongeldige data</string>
+    <string name="login_error">Intekenfout: %s</string>
+    <string name="login_fields_required">Gebruikersnaam en wagwoord word vereis</string>
+
+    <string name="register_title">Skep Rekening</string>
+    <string name="register_confirm_password_hint">Bevestig Wagwoord</string>
+    <string name="register_button">Registreer</string>
+    <string name="register_success">Registrasie suksesvol! Teken asseblief in.</string>
+    <string name="register_failed">Registrasie het misluk</string>
+    <string name="register_passwords_no_match">Wagwoorde stem nie ooreen nie</string>
+    <string name="register_fields_required">Alle velde word vereis</string>
+
+    <string name="main_title">My Take</string>
+    <string name="main_empty_view">Nog geen take nie. Tik \'+\' om een by te voeg!</string>
+    <string name="main_pending_sync">(Wag om te sinkroniseer…)</string>
+    <string name="main_settings_desc">Instellings</string>
+    <string name="main_add_todo_desc">Voeg Taak By</string>
+
+    <string name="add_todo_title">Voeg Nuwe Taak By</string>
+    <string name="add_todo_hint">Beskrywing (bv. Koop kruideniersware)</string>
+    <string name="add_todo_save_button">Stoor Taak</string>
+    <string name="add_todo_saved_offline">Taak gestoor (vanlyn)!</string>
+    <string name="add_todo_description_empty">Beskrywing kan nie leeg wees nie</string>
+
+    <string name="settings_title">Instellings</string>
+    <string name="settings_logout">Teken Uit</string>
+
+    <string name="notification_permission_denied">Kennisgewings sal gedeaktiveer word</string>
+    <string name="notification_channel_name">Taak Kennisgewings</string>
+    <string name="notification_channel_description">Kennisgewings vir gestoorde take</string>
+    <string name="notification_title">Taak Gestoor</string>
+
+    <string name="settings_notifications">Aktiveer Kennisgewings</string>
+    <string name="settings_language">Taal</string>
+    <string name="settings_language_current">Huidig: %s</string>
+    <string name="dialog_language_title">Kies Taal</string>
+    <string name="language_english">English</string>
+    <string name="language_afrikaans">Afrikaans</string>
+    <string name="language_zulu">isiZulu</string>
+    <string name="language_xhosa">isiXhosa</string>
+    <string name="language_system_default">Stelsel Verstek</string>
+</resources>

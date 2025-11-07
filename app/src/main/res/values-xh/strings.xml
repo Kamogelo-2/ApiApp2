@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Beta Budget</string>
+
+    <string name="login_title">Beta Budget</string>
+    <string name="login_username_hint">Igama lomsebenzisi</string>
+    <string name="login_password_hint">Igama eliyimfihlo</string>
+    <string name="login_button">Ngena</string>
+    <string name="login_register_prompt">Awunayo i-akhawunti? Bhalisa apha.</string>
+    <string name="login_failed">Ukungena akuphumelelanga: Iinkcukacha ezingachanekanga</string>
+    <string name="login_error">Impazamo yokungena: %s</string>
+    <string name="login_fields_required">Igama lomsebenzisi negama eliyimfihlo liyafuneka</string>
+
+    <string name="register_title">Yenza i-Akhawunti</string>
+    <string name="register_confirm_password_hint">Qinisekisa Igama eliyimfihlo</string>
+    <string name="register_button">Bhalisa</string>
+    <string name="register_success">Ubhaliso luphumelele! Nceda ungene.</string>
+    <string name="register_failed">Ubhaliso aluphumelelanga</string>
+    <string name="register_passwords_no_match">Amagama ayimfihlo awafani</string>
+    <string name="register_fields_required">Kufuneka ugcwalise zonke iindawo</string>
+
+    <string name="main_title">Imisebenzi Yam</string>
+    <string name="main_empty_view">Akukho misebenzi okwangoku. Cofa u-\'+\' ukongeza!</string>
+    <string name="main_pending_sync">(Kulindwe ungqamaniso…)</string>
+    <string name="main_settings_desc">Useto</string>
+    <string name="main_add_todo_desc">Yongeza Umsebenzi</string>
+
+    <string name="add_todo_title">Yongeza Umsebenzi Omtsha</string>
+    <string name="add_todo_hint">Inkcazelo (umz. Thenga igrosari)</string>
+    <string name="add_todo_save_button">Gcina Umsebenzi</string>
+    <string name="add_todo_saved_offline">Umsebenzi ugciniwe (awukho kwi-intanethi)!</string>
+    <string name="add_todo_description_empty">Inkcazelo ayinakuba yanto</string>
+
+    <string name="settings_title">Useto</string>
+    <string name="settings_logout">Phuma</string>
+
+    <string name="notification_permission_denied">Izaziso ziya kuvalwa</string>
+    <string name="notification_channel_name">Izaziso Zemisebenzi</string>
+    <string name="notification_channel_description">Izaziso zemisebenzi egciniweyo</string>
+    <string name="notification_title">Umsebenzi Gciniwe</string>
+
+    <string name="settings_notifications">Vumela Izaziso</string>
+    <string name="settings_language">Ulwimi</string>
+    <string name="settings_language_current">Okwangoku: %s</string>
+    <string name="dialog_language_title">Khetha Ulwimi</string>
+    <string name="language_english">English</string>
+    <string name="language_afrikaans">Afrikaans</string>
+    <string name="language_zulu">isiZulu</string>
+    <string name="language_xhosa">isiXhosa</string>
+    <string name="language_system_default">Okumiselweyo Kwenkqubo</string>
+</resources>

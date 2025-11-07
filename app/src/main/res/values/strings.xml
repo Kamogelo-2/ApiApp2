@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Beta Budget</string>
+
+    <string name="login_title">Beta Budget</string>
+    <string name="login_username_hint">Username</string>
+    <string name="login_password_hint">Password</string>
+    <string name="login_button">Login</string>
+    <string name="login_register_prompt">Don\'t have an account? Register here.</string>
+    <string name="login_failed">Login failed: Invalid credentials</string>
+    <string name="login_error">Login error: %s</string>
+    <string name="login_fields_required">Username and password required</string>
+
+    <string name="register_title">Create Account</string>
+    <string name="register_confirm_password_hint">Confirm Password</string>
+    <string name="register_button">Register</string>
+    <string name="register_success">Registration successful! Please log in.</string>
+    <string name="register_failed">Registration failed</string>
+    <string name="register_passwords_no_match">Passwords do not match</string>
+    <string name="register_fields_required">All fields are required</string>
+
+    <string name="main_title">My Todos</string>
+    <string name="main_empty_view">No todos yet. Tap \'+\' to add one!</string>
+    <string name="main_pending_sync">(Pending sync…)</string>
+    <string name="main_settings_desc">Settings</string>
+    <string name="main_add_todo_desc">Add Todo</string>
+
+    <string name="add_todo_title">Add New Todo</string>
+    <string name="add_todo_hint">Description (e.g., Buy groceries)</string>
+    <string name="add_todo_save_button">Save Todo</string>
+    <string name="add_todo_saved_offline">Todo saved (offline)!</string>
+    <string name="add_todo_description_empty">Description cannot be empty</string>
+
+    <string name="settings_title">Settings</string>
+    <string name="settings_logout">Logout</string>
+
+    <string name="notification_permission_denied">Notifications will be disabled</string>
+    <string name="notification_channel_name">Todo Notifications</string>
+    <string name="notification_channel_description">Notifications for when todos are saved</string>
+    <string name="notification_title">Todo Saved</string>
+
+    <string name="settings_notifications">Enable Notifications</string>
+    <string name="settings_language">Language</string>
+    <string name="settings_language_current">Current: %s</string>
+    <string name="dialog_language_title">Select Language</string>
+    <string name="language_english">English</string>
+    <string name="language_afrikaans">Afrikaans</string>
+    <string name="language_zulu">isiZulu</string>
+    <string name="language_xhosa">isiXhosa</string>
+    <string name="language_system_default">System Default</string>
+
+</resources>
+
